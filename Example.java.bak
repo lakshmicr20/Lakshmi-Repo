@@ -1,0 +1,25 @@
+class Example
+{
+	public static void main(String args[])
+	{
+<<<<<<< HEAD
+		System.out.println("Helloo World hi all");
+=======
+		System.out.println("Helloo World plus earth");
+>>>>>>> ef1c3347df15bd81665d5a503c91364812b67985
+	}
+}
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
